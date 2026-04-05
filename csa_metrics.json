@@ -1,0 +1,8 @@
+{
+    "CSA_MSE": 6329206.352950364,
+    "CSA_R2": 0.9759156334314893,
+    "Best_Params": {
+        "n_estimators": 236,
+        "max_depth": 3
+    }
+}

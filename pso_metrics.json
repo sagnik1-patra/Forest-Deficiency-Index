@@ -1,0 +1,8 @@
+{
+    "PSO_MSE": 5188451.114897843,
+    "PSO_R2": 0.9802565200744723,
+    "Best_Params": {
+        "n_estimators": 51,
+        "max_depth": 3
+    }
+}

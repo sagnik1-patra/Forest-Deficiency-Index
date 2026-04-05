@@ -1,0 +1,5 @@
+algorithm: Quantum Particle Swarm Optimization
+features:
+- Geo_Area
+- Recorded_Forest
+target: Actual_Forest

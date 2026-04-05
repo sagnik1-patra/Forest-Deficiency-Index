@@ -1,0 +1,8 @@
+{
+    "ALOA_MSE": 6263592.648364965,
+    "ALOA_R2": 0.9761653115783262,
+    "Best_Params": {
+        "n_estimators": 238,
+        "max_depth": 3
+    }
+}

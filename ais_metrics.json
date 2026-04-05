@@ -1,0 +1,66 @@
+{
+    "AIS_MSE": 6635355.22905311,
+    "AIS_R2": 0.9747506529670494,
+    "Iterations": [
+        {
+            "iteration": 0,
+            "n_estimators": 275,
+            "max_depth": 12,
+            "r2": 0.9595663438405476
+        },
+        {
+            "iteration": 1,
+            "n_estimators": 68,
+            "max_depth": 13,
+            "r2": 0.956334043696646
+        },
+        {
+            "iteration": 2,
+            "n_estimators": 207,
+            "max_depth": 12,
+            "r2": 0.9579948861415015
+        },
+        {
+            "iteration": 3,
+            "n_estimators": 251,
+            "max_depth": 6,
+            "r2": 0.9611126241355247
+        },
+        {
+            "iteration": 4,
+            "n_estimators": 62,
+            "max_depth": 4,
+            "r2": 0.9747506529670494
+        },
+        {
+            "iteration": 5,
+            "n_estimators": 144,
+            "max_depth": 5,
+            "r2": 0.9666008225010903
+        },
+        {
+            "iteration": 6,
+            "n_estimators": 280,
+            "max_depth": 9,
+            "r2": 0.9591762302418081
+        },
+        {
+            "iteration": 7,
+            "n_estimators": 98,
+            "max_depth": 4,
+            "r2": 0.9729078671808096
+        },
+        {
+            "iteration": 8,
+            "n_estimators": 140,
+            "max_depth": 9,
+            "r2": 0.9566103876055714
+        },
+        {
+            "iteration": 9,
+            "n_estimators": 221,
+            "max_depth": 13,
+            "r2": 0.9589293908395754
+        }
+    ]
+}

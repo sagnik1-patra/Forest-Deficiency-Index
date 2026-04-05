@@ -1,0 +1,5 @@
+algorithm: Artificial Immune System (Simulated)
+features:
+- Geo_Area
+- Recorded_Forest
+target: Actual_Forest

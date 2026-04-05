@@ -1,0 +1,8 @@
+{
+    "QPSO_MSE": 5186156.494412636,
+    "QPSO_R2": 0.9802652517349396,
+    "Best_Params": {
+        "n_estimators": 73,
+        "max_depth": 3
+    }
+}

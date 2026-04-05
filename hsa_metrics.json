@@ -1,0 +1,8 @@
+{
+    "HSA_MSE": 5475239.755127626,
+    "HSA_R2": 0.9791652106189418,
+    "Best_Params": {
+        "n_estimators": 59,
+        "max_depth": 3
+    }
+}

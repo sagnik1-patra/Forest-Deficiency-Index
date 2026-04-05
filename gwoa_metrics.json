@@ -1,0 +1,8 @@
+{
+    "GWOA_MSE": 5495894.351415475,
+    "GWOA_R2": 0.9790866142135506,
+    "Best_Params": {
+        "n_estimators": 122,
+        "max_depth": 3
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Top_Deficient_States": [
+        {
+            "State": "Grand Total",
+            "Forest_Deficiency_Index": 62893.0
+        },
+        {
+            "State": "Himachal Pradesh",
+            "Forest_Deficiency_Index": 22337.0
+        },
+        {
+            "State": "Madhya Pradesh",
+            "Forest_Deficiency_Index": 17227.0
+        },
+        {
+            "State": "Rajasthan",
+            "Forest_Deficiency_Index": 16566.0
+        },
+        {
+            "State": "Uttarakhand",
+            "Forest_Deficiency_Index": 13760.0
+        }
+    ],
+    "Top_Healthy_States": [
+        {
+            "State": "Arunachal Pradesh",
+            "Forest_Deficiency_Index": -15841.0
+        },
+        {
+            "State": "Mizoram",
+            "Forest_Deficiency_Index": -13107.0
+        },
+        {
+            "State": "Kerala",
+            "Forest_Deficiency_Index": -7930.0
+        },
+        {
+            "State": "Meghalaya",
+            "Forest_Deficiency_Index": -7721.0
+        },
+        {
+            "State": "West Bengal",
+            "Forest_Deficiency_Index": -4949.0
+        }
+    ],
+    "Model_Performance": {
+        "RandomForest_MSE": 11225331.607989045,
+        "RandomForest_R2": 0.9572845336012987
+    }
+}
