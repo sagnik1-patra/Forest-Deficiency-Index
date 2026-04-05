@@ -62,7 +62,7 @@ Forest-Intelligence-System/
 
 ### 🔥 Correlation Heatmap  
 
-![ALOA Heatmap](outputs/aloa_heatmap.png)
+![ALOA_Heatmap](outputs/aloa_heatmap.png)
 
 👉 This heatmap shows relationships between:
 - Geographical Area  
