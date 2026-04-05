@@ -1,88 +1,127 @@
-🌲 Forest Intelligence System using ALOA
-Optimizing Forest Cover Prediction with Bio-Inspired Algorithms
-👤 Author
+# 🌲 Forest Intelligence System using ALOA  
+### Optimizing Forest Cover Prediction with Bio-Inspired Algorithms  
 
-Sagnik Patra
+---
 
-📌 Project Overview
+## 👤 Author  
+**Sagnik Patra**
 
-This project builds an end-to-end Machine Learning pipeline to analyze and predict forest cover across Indian states using:
+---
 
-🌿 Forest Deficiency Index
-📊 Data visualization (heatmaps, prediction graphs)
-🤖 ML models (Random Forest)
-🧠 Bio-inspired optimization (Ant Lion Optimization Algorithm - ALOA)
+## 📌 Project Overview  
 
-The system generates production-ready outputs including models, metrics, visualizations, and prediction files.
+This project builds an **end-to-end Machine Learning pipeline** to analyze and predict forest cover across Indian states using:
 
-🎯 Objectives
-Analyze Recorded vs Actual Forest Cover
-Create a Forest Deficiency Index
-Optimize model performance using ALOA
-Generate visual insights & predictions
-Export results in multiple formats
-📂 Project Structure
+- 🌿 Forest Deficiency Index  
+- 📊 Data visualization (heatmaps, prediction graphs)  
+- 🤖 ML models (Random Forest)  
+- 🧠 Bio-inspired optimization (**Ant Lion Optimization Algorithm - ALOA**)  
+
+The system generates **production-ready outputs** including models, metrics, visualizations, and prediction files.
+
+---
+
+## 🎯 Objectives  
+
+- Analyze **Recorded vs Actual Forest Cover**  
+- Create a **Forest Deficiency Index**  
+- Optimize model performance using **ALOA**  
+- Generate **visual insights & predictions**  
+- Export results in multiple formats  
+
+---
+
+## 📂 Project Structure  
+
+
 Forest-Intelligence-System/
 │
 ├── data/
-│   └── Rajya_Sabha_Session_237_AU2437_1.1.csv
+│ └── Rajya_Sabha_Session_237_AU2437_1.1.csv
 │
 ├── outputs/
-│   ├── aloa_heatmap.png
-│   ├── aloa_results.csv
-│   ├── aloa_predictions.csv
-│   ├── aloa_results_graph.png
-│   ├── aloa_prediction_graph.png
-│   ├── aloa_optimization_graph.png
-│   ├── aloa_model.pkl
-│   ├── aloa_metrics.json
-│   └── aloa_config.yaml
+│ ├── aloa_heatmap.png
+│ ├── aloa_results.csv
+│ ├── aloa_predictions.csv
+│ ├── aloa_results_graph.png
+│ ├── aloa_prediction_graph.png
+│ ├── aloa_optimization_graph.png
+│ ├── aloa_model.pkl
+│ ├── aloa_metrics.json
+│ └── aloa_config.yaml
 │
 ├── src/
-│   └── aloa_pipeline.py
+│ └── aloa_pipeline.py
 │
 └── README.md
-📊 Visual Insights
-🔥 Correlation Heatmap
+
+
+---
+
+## 📊 Visual Insights  
+
+### 🔥 Correlation Heatmap  
+
+![ALOA Heatmap](outputs/aloa_heatmap.png)
 
 👉 This heatmap shows relationships between:
-![Confusion Matrix](aloa_heatmap.png)
-Geographical Area
-Recorded Forest
-Actual Forest
-Forest Deficiency Index
-🧠 Algorithm Used
-🐜 Ant Lion Optimization Algorithm (ALOA)
-Simulates hunting mechanism of antlions
-Uses random walk + elitism strategy
-Balances:
-Exploration (searching new solutions)
-Exploitation (refining best solutions)
-⚙️ Features
-✅ Data Cleaning & Preprocessing
-✅ Feature Engineering
-✅ Correlation Heatmap
-✅ ALOA-based Hyperparameter Optimization
-✅ Model Training (Random Forest)
-✅ Predictions & Evaluation
-✅ CSV + JSON + YAML Export
-✅ Visualization Graphs
-📈 Outputs Generated
-📊 Data Files
-aloa_results.csv → Model predictions (test set)
-aloa_predictions.csv → Full dataset predictions
-📈 Graphs
-aloa_heatmap.png
-aloa_results_graph.png
-aloa_prediction_graph.png
-aloa_optimization_graph.png
-🤖 Models
-aloa_model.pkl
-⚙️ Config
-aloa_metrics.json
-aloa_config.yaml
-🚀 How to Run
-1️⃣ Install Dependencies
+- Geographical Area  
+- Recorded Forest  
+- Actual Forest  
+- Forest Deficiency Index  
+
+---
+
+## 🧠 Algorithm Used  
+
+### 🐜 Ant Lion Optimization Algorithm (ALOA)
+
+- Simulates hunting mechanism of antlions  
+- Uses **random walk + elitism strategy**  
+- Balances:
+  - Exploration (searching new solutions)  
+  - Exploitation (refining best solutions)  
+
+---
+
+## ⚙️ Features  
+
+- ✅ Data Cleaning & Preprocessing  
+- ✅ Feature Engineering  
+- ✅ Correlation Heatmap  
+- ✅ ALOA-based Hyperparameter Optimization  
+- ✅ Model Training (Random Forest)  
+- ✅ Predictions & Evaluation  
+- ✅ CSV + JSON + YAML Export  
+- ✅ Visualization Graphs  
+
+---
+
+## 📈 Outputs Generated  
+
+### 📊 Data Files  
+- `aloa_results.csv` → Model predictions (test set)  
+- `aloa_predictions.csv` → Full dataset predictions  
+
+### 📈 Graphs  
+- `aloa_heatmap.png`  
+- `aloa_results_graph.png`  
+- `aloa_prediction_graph.png`  
+- `aloa_optimization_graph.png`  
+
+### 🤖 Models  
+- `aloa_model.pkl`  
+
+### ⚙️ Config  
+- `aloa_metrics.json`  
+- `aloa_config.yaml`  
+
+---
+
+## 🚀 How to Run  
+
+### 1️⃣ Install Dependencies  
+```bash
 pip install pandas numpy matplotlib scikit-learn joblib pyyaml
 2️⃣ Run Script
 python aloa_pipeline.py
@@ -104,4 +143,8 @@ States with high recorded forest area but lower actual forest cover indicate pot
 🧠 Hybrid optimization (ALOA + PSO + GWO)
 🏁 Conclusion
 
-This project demonstrates how bio-inspired algorithms like ALOA can significantly improve predictive modeling while providing actionable environmental insights.
+This project demonstrates how bio-inspired algorithms like ALOA can enhance predictive modeling while delivering actionable environmental insights.
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!algorithms like ALOA can significantly improve predictive modeling while providing actionable environmental insights.
