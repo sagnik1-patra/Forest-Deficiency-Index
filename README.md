@@ -46,7 +46,7 @@ Forest-Intelligence-System/
 🔥 Correlation Heatmap
 
 👉 This heatmap shows relationships between:
-
+![Confusion Matrix](aloa_heatmap.png)
 Geographical Area
 Recorded Forest
 Actual Forest
