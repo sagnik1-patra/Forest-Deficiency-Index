@@ -1,4 +1,4 @@
-# 🌲 Forest Intelligence System using ALOA  
+# 🌲 Forest Intelligence System using ALOA   
 ### Optimizing Forest Cover Prediction with Bio-Inspired Algorithms   
 
 ---
